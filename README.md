@@ -44,12 +44,12 @@
     - Специализация Разработка интерфейсов: вёрстка и JavaScript
 
 ### 💼 ℙ𝕠𝕣𝕥𝕗𝕠𝕝𝕚𝕠:  
-[![Portfolio-Anna](https://github-readme-stats.vercel.app/api/pin/?username=anysofronova&repo=anna-sofronova-portfolio&theme=github_dark)](https://github.com/anysofronova/anna-sofronova-portfolio)
+[![Portfolio-Anna](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=anysofronova&repo=anna-sofronova-portfolio&theme=dark)](https://github.com/anysofronova/anna-sofronova-portfolio)
 
 ### ⚔️ ℂ𝕠𝕕𝕖𝕎𝕒𝕣𝕤:  
 ![codewars](https://www.codewars.com/users/anna_sofronova/badges/small)  
   
-[![Code-Wars](https://github-readme-stats.vercel.app/api/pin/?username=anysofronova&repo=code-wars&theme=github_dark)](https://github.com/anysofronova/code-wars)
+[![Code-Wars](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=anysofronova&repo=code-wars&theme=dark)](https://github.com/anysofronova/code-wars)
   
 
 ### 📱 𝔽𝕠𝕝𝕝𝕠𝕨 𝕞𝕖:  
