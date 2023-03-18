@@ -8,17 +8,24 @@
 ### 💻 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤:  
 <div>
   <img src="https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white">
+</div> 
+<div>
   <img src="https://img.shields.io/badge/SCSS-323330.svg?style=for-the-badge&logo=SCSS&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-323330.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white">
   <img src="https://img.shields.io/badge/MUI-323330.svg?style=for-the-badge&logo=MUI&logoColor=white">
- </div>  
+  <img src="https://img.shields.io/badge/styled--components-323330?style=for-the-badge&logo=styled-components&logoColor=white">
+</div>  
 <div>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=white">
+</div>  
+<div>
   <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/redux-%23323330.svg?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/React%20Router-323330.svg?style=for-the-badge&logo=React-Router&logoColor=white">
   <img src="https://img.shields.io/badge/React%20Hook%20Form-323330.svg?style=for-the-badge&logo=React-Hook-Form&logoColor=white">
+  <img src="https://img.shields.io/badge/Next-%23323330?style=for-the-badge&logo=next.js&logoColor=white">
+ 
   <img src="https://img.shields.io/badge/MobX-323330.svg?style=for-the-badge&logo=MobX&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-323330.svg?style=for-the-badge&logo=Firebase&logoColor=white"
 </div> 
