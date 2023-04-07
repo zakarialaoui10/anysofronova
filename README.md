@@ -60,11 +60,17 @@
   
 
 ### 📱 𝔽𝕠𝕝𝕝𝕠𝕨 𝕞𝕖:  
-<a href="mailto:anna.sofronova.frontend@gmail.com"><img src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+[![Email](https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anna.sofronova.frontend@gmail.com)
+<a href="mailto:anna.sofronova.frontend@gmail.com"><img src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
+[![Telegram](https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Anna_Fawn)
 <a href="https://t.me/Anna_Fawn"><img src="https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+  
 <a href="https://www.linkedin.com/in/anna-sofronova-9975a81ab/"><img src="https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  
 <a href="https://www.instagram.com/anya.fawn/"><img src="https://img.shields.io/badge/Instagram-%23323330.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://discord.com/users/Anna.Fawn#1046"><img src="https://img.shields.io/badge/Discord-%23323330.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+
+  <a href="https://discord.com/users/Anna.Fawn#1046"><img src="https://img.shields.io/badge/Discord-%23323330.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 
 ### ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟𝕤: 
